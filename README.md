@@ -10,7 +10,8 @@
 
  ## Desenvolvedores
 - [@Alex Felix](https://github.com/afsilva3021)
+- [@Gustavo Guenka](https://github.com/salsa666)
 - [@Leonardo Machado de Siqueira](https://github.com/FireWolf014)
 
 ## Sobre o Projeto
-<p> Este é o Projeto de Conclusão de semestre, desenvolvido pelos alunos da UNINOVE Memorial. A proposta do projeto foi desenvolver um site de música utilizando HTML, CSS e JS. Foram usados serviços do Firebase.</p>
+<p> Este projeto teve como objetivo o desenvolvimento de um site para a empresa Heróis Dos Bits, especializada na venda de software e hardware.</p>
